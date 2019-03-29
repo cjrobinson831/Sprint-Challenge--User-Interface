@@ -89,6 +89,12 @@ nav{
 
 }
 
+button{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
