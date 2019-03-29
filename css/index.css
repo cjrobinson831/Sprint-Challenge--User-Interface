@@ -76,16 +76,16 @@ header{
     flex-direction: row-reverse;
     justify-content: space-between;
     margin-bottom: 20px;
+    width: 100%;
 }
 nav{
-    /*display: flex;*/
+    display: flex;
     margin-bottom: 20px;
     justify-content: space-between;
     margin-left: 40px;
     align-items: flex-start;
     margin-left: 20px;
-
-
+    width: 60%;
 
 }
 
