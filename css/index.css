@@ -71,6 +71,26 @@ p {
     margin: 0 auto;
 }
 
+header{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+nav{
+    /*display: flex;*/
+    margin-bottom: 20px;
+    border: 1px solid blue;
+    justify-content: space-between;
+    margin-left: 40px;
+    align-items: flex-start;
+    margin-left: 20px;
+
+
+
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
